@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mabrouk</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **spring boot** framework.
 
 - 📫 How to reach me **mmabroukk404@gmail.com**
 
